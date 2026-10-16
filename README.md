@@ -17,7 +17,7 @@
 
 ## About me
 
-I'm halfway through a Bachelor's in **Software Engineering** at the Federal University of Pampa (UNIPAMPA), Campus Alegrete. I have hands-on experience in systems development, process automation and requirements engineering in academic projects, outreach programs and with a real client.
+I'm halfway through a Bachelor's in **Software Engineering** at the Federal University of Pampa (UNIPAMPA), Campus Alegrete. I have hands-on experience in systems development, process automation and requirements engineering — in academic projects, outreach programs and with a real client.
 
 I'm especially interested in where **artificial intelligence meets psychology**: technology that helps people build better habits and use technology itself more consciously.
 
@@ -28,11 +28,13 @@ I'm especially interested in where **artificial intelligence meets psychology**:
 
 ## Tech stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,kotlin,java,react,vite,html,css,sqlite,postgres,git,github,vscode,idea&perline=15" alt="Tech stack">
-</p>
-
-**Also:** React Native · Expo & EAS · Streamlit · Playwright · pytest · node:test · REST APIs (Google Drive, Telegram, LLMs) · PowerShell
+| Area | Tools |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,ts,js,java" height="36" alt="Languages"><br>Python · TypeScript · JavaScript · Java |
+| **Frontend & mobile** | <img src="https://skillicons.dev/icons?i=react,html,css" height="36" alt="Frontend"><br>React · React Native · HTML · CSS |
+| **Backend & data** | <img src="https://skillicons.dev/icons?i=sqlite" height="36" alt="Backend"><br>Streamlit · SQLite · REST APIs |
+| **Version control** | <img src="https://skillicons.dev/icons?i=git,github" height="36" alt="Version control"><br>Git · GitHub |
+| **AI & automation** | Claude Code · Codex · Gemini · Playwright |
 
 ## Featured projects
 
@@ -42,8 +44,6 @@ I'm especially interested in where **artificial intelligence meets psychology**:
 | 🔁 [**Antigravity Handoff**](https://github.com/rlampago22/antigravity-handoff) | Carries goals, recent conversations, Git state and artifacts from Antigravity into Codex, so you pick up where you left off | Python · PowerShell |
 | 🧩 [**Codex Handoff**](https://github.com/rlampago22/codex-handoff) | Extracts the relevant context from Codex sessions and hands it off to Claude, Gemini or Cursor | Python · SQLite |
 | 🏢 [**Sistema San Rafael**](https://github.com/rlampago22/SISTEMA-SAN-RAFAEL) | Condo finance system delivered to a real client: cost splitting, payments, cash flow, dashboard and PDF/CSV reports | Python · Streamlit |
-| 📊 [**APA – ACPS**](https://github.com/rlampago22/apa-tp1-acps) | Implementation and analysis of the Adaptive Centripetal Pincer Sort algorithm | Python |
-| 🌳 [**Augmented AVL Tree**](https://github.com/rlampago22/ed-avl-aumentada-grupo16) | Final Data Structures project: an augmented AVL tree | Python |
 
 Other work shown on my [portfolio](https://rlampago22.github.io): **Subchefe** (Android habit-tracking app, React Native + TypeScript, 260+ automated tests) and **RPC Peixes** (scientific software for fish weight–length analysis, used in work published at the 18th SIEPE).
 
