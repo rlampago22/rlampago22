@@ -54,13 +54,16 @@ Other work shown on my [portfolio](https://rlampago22.github.io): **Subchefe** (
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=rlampago22&background=00000000&border=00000000&ring=8B7CF6&fire=8B7CF6&currStrNum=8B7CF6&currStrLabel=8B7CF6&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&stroke=30363D" alt="Commit streak">
+  <img height="165" src="https://streak-stats.demolab.com?user=rlampago22&background=00000000&border=00000000&ring=8B7CF6&fire=8B7CF6&currStreakNum=8B7CF6&currStreakLabel=8B7CF6&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&stroke=30363D" alt="Commit streak">
 </p>
 
 ### Commit history
 
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/7C6CF2/rlampago22" alt="Contribution history">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rlampago22&theme=github_dark">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rlampago22&theme=github" alt="Contribution history">
+  </picture>
 </p>
 
 ## Research
