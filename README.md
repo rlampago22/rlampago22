@@ -17,7 +17,7 @@
 
 ## About me
 
-I'm halfway through a Bachelor's in **Software Engineering** at the Federal University of Pampa (UNIPAMPA), Campus Alegrete. I have hands-on experience in systems development, process automation and requirements engineering — in academic projects, outreach programs and with a real client.
+I'm halfway through a Bachelor's in **Software Engineering** at the Federal University of Pampa (UNIPAMPA), Campus Alegrete. I have hands-on experience in systems development, process automation and requirements engineering in academic projects, outreach programs and with a real client.
 
 I'm especially interested in where **artificial intelligence meets psychology**: technology that helps people build better habits and use technology itself more consciously.
 
