@@ -47,6 +47,13 @@ I'm especially interested in where **artificial intelligence meets psychology**:
 
 Other work shown on my [portfolio](https://rlampago22.github.io): **Subchefe** (Android habit-tracking app, React Native + TypeScript, 260+ automated tests) and **RPC Peixes** (scientific software for fish weight-length analysis, used in work published at the 18th SIEPE).
 
+## GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rlampago22&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlampago22&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Most used languages">
+</p>
+
 ## Research
 
 - 📄 **App SAE: A Social Technology for Medication Adherence in Specialized Care** · SBSC 2026, *first author* · [link](https://sol.sbc.org.br/index.php/sbsc/article/view/42950)
