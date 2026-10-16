@@ -1,19 +1,18 @@
-<h1 align="center">Hi, I'm Marcus Querol 👋</h1>
-
 <p align="center">
-  <b>Software Engineering student at UNIPAMPA</b> · building with AI, automation and a bit of psychology<br>
-  📍 Alegrete, RS, Brazil
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,55:4C3FB5,100:7C6CF2&height=200&section=header&text=Marcus%20Querol&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineering%20%C2%B7%20UNIPAMPA&descSize=18&descAlignY=56&animation=fadeIn" alt="Marcus Querol">
 </p>
 
 <p align="center">
-  <a href="https://rlampago22.github.io"><img src="https://img.shields.io/badge/Portfolio-rlampago22.github.io-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:marcusquerol.aluno@unipampa.edu.br"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://orcid.org/0009-0005-9192-0121"><img src="https://img.shields.io/badge/ORCID-0009--0005--9192--0121-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
-  <a href="https://lattes.cnpq.br/5322341445729243"><img src="https://img.shields.io/badge/Lattes-CV-1E5AA8?style=for-the-badge" alt="Lattes"></a>
-  <a href="https://www.instagram.com/marcusqueroll/"><img src="https://img.shields.io/badge/Instagram-@marcusqueroll-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=8B7CF6&center=true&vCenter=true&width=560&lines=Building+with+AI+and+automation;Where+AI+meets+psychology;Requirements+%E2%86%92+code+%E2%86%92+real+users;Based+in+Alegrete%2C+RS%2C+Brazil" alt="Typing intro">
 </p>
 
----
+<p align="center">
+  <a href="https://rlampago22.github.io"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=A99CFF" alt="Portfolio"></a>
+  <a href="mailto:marcusquerol.aluno@unipampa.edu.br"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=A99CFF" alt="Email"></a>
+  <a href="https://orcid.org/0009-0005-9192-0121"><img src="https://img.shields.io/badge/ORCID-161B22?style=for-the-badge&logo=orcid&logoColor=A99CFF" alt="ORCID"></a>
+  <a href="https://lattes.cnpq.br/5322341445729243"><img src="https://img.shields.io/badge/Lattes-161B22?style=for-the-badge&logo=googlescholar&logoColor=A99CFF" alt="Lattes"></a>
+  <a href="https://www.instagram.com/marcusqueroll/"><img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=A99CFF" alt="Instagram"></a>
+</p>
 
 ## About me
 
@@ -50,8 +49,18 @@ Other work shown on my [portfolio](https://rlampago22.github.io): **Subchefe** (
 ## GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rlampago22&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlampago22&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Most used languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rlampago22&show_icons=true&bg_color=00000000&title_color=8B7CF6&icon_color=8B7CF6&text_color=8B949E&hide_border=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlampago22&layout=compact&langs_count=6&bg_color=00000000&title_color=8B7CF6&icon_color=8B7CF6&text_color=8B949E&hide_border=true" alt="Most used languages">
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=rlampago22&background=00000000&border=00000000&ring=8B7CF6&fire=8B7CF6&currStrNum=8B7CF6&currStrLabel=8B7CF6&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&stroke=30363D" alt="Commit streak">
+</p>
+
+### Commit history
+
+<p align="center">
+  <img width="100%" src="https://ghchart.rshah.org/7C6CF2/rlampago22" alt="Contribution history">
 </p>
 
 ## Research
@@ -66,6 +75,8 @@ More publications on [ORCID](https://orcid.org/0009-0005-9192-0121) and [Lattes]
 
 🧠 Psychology · 🎣 Fishing · ⚽ Football · 🎧 Always a playlist on while I code
 
----
-
 <p align="center"><i>Open to internships and opportunities in AI, automation and software engineering.</i></p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,55:4C3FB5,100:7C6CF2&height=110&section=footer" alt="">
+</p>
